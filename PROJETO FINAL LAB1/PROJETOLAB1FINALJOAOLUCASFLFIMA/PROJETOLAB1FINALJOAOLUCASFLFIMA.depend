@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1575952395 source:c:\users\joão\desktop\projeto final lab1\projetolab1finaljoaolucasflfima\eventos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<locale.h>
+	<time.h>
+	<conio.h>
+	"STRUCTS.h"
+	"LOCAIS.h"
+	"EVENTOS.h"
+	"PESSOAS.h"
+
+1575951106 c:\users\joão\desktop\projeto final lab1\projetolab1finaljoaolucasflfima\structs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<locale.h>
+	<time.h>
+	<conio.h>
+
+1575952092 c:\users\joão\desktop\projeto final lab1\projetolab1finaljoaolucasflfima\locais.h
+	"STRUCTS.h"
+
+1575952092 c:\users\joão\desktop\projeto final lab1\projetolab1finaljoaolucasflfima\eventos.h
+
+1575952419 c:\users\joão\desktop\projeto final lab1\projetolab1finaljoaolucasflfima\pessoas.h
+
+1575952394 source:c:\users\joão\desktop\projeto final lab1\projetolab1finaljoaolucasflfima\locais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<locale.h>
+	<time.h>
+	<conio.h>
+	"STRUCTS.h"
+	"LOCAIS.h"
+	"EVENTOS.h"
+	"PESSOAS.h"
+
+1575952394 source:c:\users\joão\desktop\projeto final lab1\projetolab1finaljoaolucasflfima\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<locale.h>
+	<time.h>
+	<conio.h>
+	"STRUCTS.h"
+	"LOCAIS.h"
+	"EVENTOS.h"
+	"PESSOAS.h"
+
+1575952824 source:c:\users\joão\desktop\projeto final lab1\projetolab1finaljoaolucasflfima\pessoas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<locale.h>
+	<time.h>
+	<conio.h>
+	"STRUCTS.h"
+	"LOCAIS.h"
+	"EVENTOS.h"
+	"PESSOAS.h"
+
