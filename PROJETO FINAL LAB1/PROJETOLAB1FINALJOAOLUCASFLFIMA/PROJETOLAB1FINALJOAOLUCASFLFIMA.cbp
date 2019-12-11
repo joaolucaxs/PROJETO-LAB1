@@ -35,6 +35,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="EVENTOS.h" />
+		<Unit filename="FUNCOES_LISTA.h" />
+		<Unit filename="FUNCOES_LISTAS.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="LOCAIS.c">
 			<Option compilerVar="CC" />
 		</Unit>

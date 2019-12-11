@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1575952395 source:c:\users\joão\desktop\projeto final lab1\projetolab1finaljoaolucasflfima\eventos.c
+1576070112 source:c:\users\joão\desktop\projeto final lab1\projetolab1finaljoaolucasflfima\eventos.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -21,8 +21,7 @@
 	<time.h>
 	<conio.h>
 
-1575952092 c:\users\joão\desktop\projeto final lab1\projetolab1finaljoaolucasflfima\locais.h
-	"STRUCTS.h"
+1576070112 c:\users\joão\desktop\projeto final lab1\projetolab1finaljoaolucasflfima\locais.h
 
 1575952092 c:\users\joão\desktop\projeto final lab1\projetolab1finaljoaolucasflfima\eventos.h
 
@@ -41,7 +40,21 @@
 	"EVENTOS.h"
 	"PESSOAS.h"
 
-1575952394 source:c:\users\joão\desktop\projeto final lab1\projetolab1finaljoaolucasflfima\main.c
+1576070112 source:c:\users\joão\desktop\projeto final lab1\projetolab1finaljoaolucasflfima\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<locale.h>
+	<time.h>
+	<conio.h>
+	"STRUCTS.h"
+	"LOCAIS.h"
+	"EVENTOS.h"
+	"PESSOAS.h"
+	"FUNCOES_LISTA.h"
+
+1576070200 source:c:\users\joão\desktop\projeto final lab1\projetolab1finaljoaolucasflfima\pessoas.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -54,7 +67,9 @@
 	"EVENTOS.h"
 	"PESSOAS.h"
 
-1575952824 source:c:\users\joão\desktop\projeto final lab1\projetolab1finaljoaolucasflfima\pessoas.c
+1576070112 c:\users\joão\desktop\projeto final lab1\projetolab1finaljoaolucasflfima\funcoes_lista.h
+
+1576070200 source:c:\users\joão\desktop\projeto final lab1\projetolab1finaljoaolucasflfima\funcoes_listas.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>

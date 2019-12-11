@@ -9,7 +9,7 @@
 #include "LOCAIS.h"
 #include "EVENTOS.h"
 #include "PESSOAS.h"
-
+#include "FUNCOES_LISTA.h"
 LISTA* criar()
 {
     LISTA* li = (LISTA*) malloc(sizeof(LISTA));
@@ -60,7 +60,7 @@ void main()
     printf("\t CURSO : CIENCIA DA COMPUTAÇÃO\n");
     printf("\t DISCIPLINA: LABORATORIO DE LINGUAGEM DE PROGRAMAÇÃO 1\n");
     printf("\t PROJETO: ENCONTRO CAMPINENSE DOS ESTUDANTES DE COMPUTAÇÃO\n\n\n\n");
-    //Sleep(4000);
+    Sleep(4000);
     system("cls");
     system("color 3F");
     printf("|-------------------------------------------------------------------------|\n");
@@ -359,5 +359,19 @@ void main()
         }
     }
     while(op!=0);
-
+    liberarPALESTRA(liP);
+    liberarGRUPOS(liG);
+    liberarCURSO(liC);
+    liberarOFICINA(liO);
+    liberarPALESTRANTE(liPal);
+    liberarCONGRESSISTA(liCon);
+    liberarORGANIZADOR(liOrg);
+    liberarLAB1(liLab1);
+    liberarLAB2(liLab2);
+    liberarAUD1(liAud1);
+    liberarAUD2(liAud2);
+    liberarAUD3(liAud3);
+    liberarSALA1(liSala1);
+    liberarSALA2(liSala2);
+    liberarSALA3(liSala3);
 }

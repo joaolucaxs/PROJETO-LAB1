@@ -10,7 +10,8 @@
 #include "EVENTOS.h"
 #include "PESSOAS.h"
 
-void inserirOrganizador(LISTA5 *liOrg, ORGANIZADOR org){
+void inserirOrganizador(LISTA5 *liOrg, ORGANIZADOR org)
+{
 
     if(liOrg==NULL)
     {

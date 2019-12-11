@@ -10,6 +10,7 @@
 #include "EVENTOS.h"
 #include "PESSOAS.h"
 
+
 void NovaPalestra(PALESTRA *p)
 {
     printf("\n\tCADASTRO DE PALESTRA\n\n");

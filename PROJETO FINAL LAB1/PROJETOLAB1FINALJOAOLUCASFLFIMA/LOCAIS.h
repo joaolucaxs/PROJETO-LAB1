@@ -1,6 +1,5 @@
 #ifndef LOCAIS_H_INCLUDED
 #define LOCAIS_H_INCLUDED
-#include "STRUCTS.h"
 
 
 void inserirAud1(LISTA10 *liAud1, AUDITORIO1 aud1, CONGRESSISTA con, PALESTRANTE pal);
